@@ -1,0 +1,559 @@
+old_cropped/CAP-0000000000000000078/1_Communication_Street_Tole_Name.jpg Bansamiti
+old_cropped/CAP-0000000000000000078/2_Organization Contact Number2.jpg check
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner2 Address.jpg check
+old_cropped/CAP-0000000000000000078/1_Mobile_Number_2.jpg nan
+old_cropped/CAP-0000000000000000078/2_other_bank_name2.jpg check
+old_cropped/CAP-0000000000000000078/2_Employer Name4.jpg check
+old_cropped/CAP-0000000000000000078/2_Nominee date of birth.jpg check
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner1 Address.jpg check
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner2 Relation.jpg check
+old_cropped/CAP-0000000000000000078/3_Email id.jpg check
+old_cropped/CAP-0000000000000000078/3_User id.jpg check
+old_cropped/CAP-0000000000000000078/2_Grandfather Name of Nominee.jpg check
+old_cropped/CAP-0000000000000000078/2_Maximum amount per transaction.jpg 50000
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner1.jpg check
+old_cropped/CAP-0000000000000000078/3_Relation to Guardian if Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000078/3_Name of Guardian of Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000078/1_Daughter-in-law.jpg nan
+old_cropped/CAP-0000000000000000078/1_Currency.jpg check
+old_cropped/CAP-0000000000000000078/2_Employee Designation3.jpg check
+old_cropped/CAP-0000000000000000078/2_Employer Address2.jpg check
+old_cropped/CAP-0000000000000000078/2_Employer Name3.jpg check
+old_cropped/CAP-0000000000000000078/2_Estimated Monthly Transaction in amount1.jpg 5000
+old_cropped/CAP-0000000000000000078/1_Permanent_Province.jpg check
+old_cropped/CAP-0000000000000000078/2_Employer Name1.jpg Maa Ninglashaini Hotel
+old_cropped/CAP-0000000000000000078/2_Identification document issue date.jpg check
+old_cropped/CAP-0000000000000000078/1_Full_Name.jpg Deepak Bahadur Bohara
+old_cropped/CAP-0000000000000000078/1_Telephone_Number_2.jpg check
+old_cropped/CAP-0000000000000000078/2_Estimated Annual Transaction in amount.jpg 400000
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner2.jpg check
+old_cropped/CAP-0000000000000000078/1_Permanent_Address_District.jpg Kanchanpur
+old_cropped/CAP-0000000000000000078/3_Introducer Name.jpg check
+old_cropped/CAP-0000000000000000078/1_Father_Name.jpg Damber Singh Bohara
+old_cropped/CAP-0000000000000000078/2_Estimated Monthly Transaction in number1.jpg 2
+old_cropped/CAP-0000000000000000078/2_Employer Name2.jpg check
+old_cropped/CAP-0000000000000000078/1_Father-in-law.jpg Jagat Sing Bist
+old_cropped/CAP-0000000000000000078/1_Number_of_Applicants.jpg check
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner1 Relation.jpg check
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Issue_Place_1.jpg Kanchanpur
+old_cropped/CAP-0000000000000000078/3_Introducer Account Number.jpg check
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Issue_Place_2.jpg check
+old_cropped/CAP-0000000000000000078/1_Daughter.jpg nan
+old_cropped/CAP-0000000000000000078/2_Purpose of account.jpg Savings
+old_cropped/CAP-0000000000000000078/1_Date_of_Birth_in_AD.jpg 1996-09-04T00:00:00.000
+old_cropped/CAP-0000000000000000078/3_Address of Guardian if Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000078/3_Mobile no.jpg check
+old_cropped/CAP-0000000000000000078/2_Annual Income3.jpg check
+old_cropped/CAP-0000000000000000078/3_Card Number.jpg check
+old_cropped/CAP-0000000000000000078/2_Any other account.jpg check
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Issue_Place(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000078/1_Mobile_Number_1.jpg 9840295847
+old_cropped/CAP-0000000000000000078/2_Father Name of Nominee.jpg check
+old_cropped/CAP-0000000000000000078/1_Permanent_House_Number.jpg Na
+old_cropped/CAP-0000000000000000078/2_Annual Income2.jpg check
+old_cropped/CAP-0000000000000000078/2_PAN Number.jpg check
+old_cropped/CAP-0000000000000000078/2_Employer Address4.jpg check
+old_cropped/CAP-0000000000000000078/2_Organization Contact Number3.jpg check
+old_cropped/CAP-0000000000000000078/1_Education.jpg check
+old_cropped/CAP-0000000000000000078/1_Permanent_Ward_No.jpg 9
+old_cropped/CAP-0000000000000000078/1_Email_address_2.jpg check
+old_cropped/CAP-0000000000000000078/1_Received_Date_and_Time_of_AOF_from_Customer.jpg check
+old_cropped/CAP-0000000000000000078/2_Annual Income4.jpg check
+old_cropped/CAP-0000000000000000078/1_Relation_to_Guardian.jpg check
+old_cropped/CAP-0000000000000000078/2_Employee Designation1.jpg Proprietor
+old_cropped/CAP-0000000000000000078/1_Communication_Address_Municipality_Rural-MC_City.jpg Shuklaphanta Municipality
+old_cropped/CAP-0000000000000000078/1_Guardian_Name.jpg nan
+old_cropped/CAP-0000000000000000078/2_Nominee Address.jpg Kailali
+old_cropped/CAP-0000000000000000078/3_Identification document number of Guardian of Nominee if Minor.jpg check
+old_cropped/CAP-0000000000000000078/1_Communiciation_Province.jpg check
+old_cropped/CAP-0000000000000000078/2_type_of_account1.jpg check
+old_cropped/CAP-0000000000000000078/2_Other Sources of income.jpg check
+old_cropped/CAP-0000000000000000078/2_Employee Designation2.jpg check
+old_cropped/CAP-0000000000000000078/2_Nominee relation.jpg Wife
+old_cropped/CAP-0000000000000000078/1_Branch.jpg check
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Number_2.jpg check
+old_cropped/CAP-0000000000000000078/1_Spouse_Name.jpg Durga Bist
+old_cropped/CAP-0000000000000000078/3_Self Announcement.jpg check
+old_cropped/CAP-0000000000000000078/1_Fax_Number_1.jpg check
+old_cropped/CAP-0000000000000000078/1_Grandfather_Name.jpg Ramu Bohara
+old_cropped/CAP-0000000000000000078/2_Identification document number of Nominee.jpg check
+old_cropped/CAP-0000000000000000078/1_Nationality.jpg check
+old_cropped/CAP-0000000000000000078/1_Fax_Number_2.jpg check
+old_cropped/CAP-0000000000000000078/1_Telephone_Number_1.jpg nan
+old_cropped/CAP-0000000000000000078/1_Communication_House_Number.jpg Na
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Issue_Date_in_BS(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000078/2_Organization Contact Number1.jpg 9840295847
+old_cropped/CAP-0000000000000000078/1_DOB_in_Nepali.jpg check
+old_cropped/CAP-0000000000000000078/2_Organization Contact Number4.jpg check
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Issue_Date_in_BS_2.jpg check
+old_cropped/CAP-0000000000000000078/2_type_of_account2.jpg check
+old_cropped/CAP-0000000000000000078/1_Email_address_1.jpg Na@Nicasiabank.Com
+old_cropped/CAP-0000000000000000078/2_Employer Address3.jpg check
+old_cropped/CAP-0000000000000000078/1_Grandmother_Name.jpg nan
+old_cropped/CAP-0000000000000000078/1_Minor_turn_major_date.jpg check
+old_cropped/CAP-0000000000000000078/1_Communication_Ward_No.jpg 9
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Number(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000078/3_Alternative user id.jpg check
+old_cropped/CAP-0000000000000000078/2_Employer Address1.jpg Pipaldai-09 Kanchanpur
+old_cropped/CAP-0000000000000000078/1_Communication_Address_District.jpg Kanchanpur
+old_cropped/CAP-0000000000000000078/3_Identification document issue date of Guardian of Nominee if Minor.jpg check
+old_cropped/CAP-0000000000000000078/1_Mother_Name.jpg Bisna Devi Bohara
+old_cropped/CAP-0000000000000000078/2_Estimated Annual Transaction in number.jpg 24
+old_cropped/CAP-0000000000000000078/1_Account_Scheme.jpg Sba
+old_cropped/CAP-0000000000000000078/2_Annual Income1.jpg 400000
+old_cropped/CAP-0000000000000000078/3_Attached document.jpg check
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner2 number.jpg check
+old_cropped/CAP-0000000000000000078/2_Beneficial Owner1 number.jpg check
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Number_1.jpg 75-01-69-05587
+old_cropped/CAP-0000000000000000078/1_Permanent_Street_Tole_Name.jpg Bansamiti
+old_cropped/CAP-0000000000000000078/1_Identification_Document_Issue_Date_in_BS_1.jpg 2017-02-17T00:00:00.000
+old_cropped/CAP-0000000000000000078/2_other_bank_name1.jpg check
+old_cropped/CAP-0000000000000000078/2_Nominee Name.jpg Durga Bist
+old_cropped/CAP-0000000000000000078/3_Mobile banking mobile no.jpg check
+old_cropped/CAP-0000000000000000078/2_Employee Designation4.jpg check
+old_cropped/CAP-0000000000000000078/1_Son.jpg nan
+old_cropped/CAP-0000000000000000078/1_Permanent_Address_Municipality_Rural-MC_City.jpg Shuklaphanta Municipality
+new_cropped/CAP-0000000000000000148/1_Communication Address District.jpg check
+new_cropped/CAP-0000000000000000148/2_Nominee Relation.jpg check
+new_cropped/CAP-0000000000000000148/1_Communication_Street_Tole_Name.jpg Lambi[Phata
+new_cropped/CAP-0000000000000000148/1_Grandfather Name.jpg check
+new_cropped/CAP-0000000000000000148/2_Estimated Monthly Transaction in number.jpg check
+new_cropped/CAP-0000000000000000148/1_Number of Applicants.jpg check
+new_cropped/CAP-0000000000000000148/2_Organization Contact Number2.jpg check
+new_cropped/CAP-0000000000000000148/1_Identification Document Number.jpg check
+new_cropped/CAP-0000000000000000148/1_DOB in Nepali.jpg check
+new_cropped/CAP-0000000000000000148/3_PEP Account Number2.jpg check
+new_cropped/CAP-0000000000000000148/1_Identification Document Issue Place.jpg check
+new_cropped/CAP-0000000000000000148/3_User ID.jpg check
+new_cropped/CAP-0000000000000000148/2_Grand Father Name of Nominee.jpg check
+new_cropped/CAP-0000000000000000148/3_PEP Account Name.jpg check
+new_cropped/CAP-0000000000000000148/1_Last Name.jpg check
+new_cropped/CAP-0000000000000000148/2_Maximum amount per transaction.jpg 100000
+new_cropped/CAP-0000000000000000148/3_Account instruction.jpg check
+new_cropped/CAP-0000000000000000148/1_Identification_Document_Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Daughter-in-law.jpg nan
+new_cropped/CAP-0000000000000000148/1_Relation to Guardian.jpg check
+new_cropped/CAP-0000000000000000148/2_Employer Address2.jpg check
+new_cropped/CAP-0000000000000000148/1_Grandmother Name.jpg check
+new_cropped/CAP-0000000000000000148/1_Father Name.jpg check
+new_cropped/CAP-0000000000000000148/2_Estimated Monthly Transaction in amount1.jpg 100000
+new_cropped/CAP-0000000000000000148/1_Spouse Name.jpg check
+new_cropped/CAP-0000000000000000148/1_Permanent_Province.jpg check
+new_cropped/CAP-0000000000000000148/2_Employer Name1.jpg nan
+new_cropped/CAP-0000000000000000148/1_Full_Name.jpg Khushiram Chaudhary
+new_cropped/CAP-0000000000000000148/1_Mother Name.jpg check
+new_cropped/CAP-0000000000000000148/1_Guardian Name.jpg check
+new_cropped/CAP-0000000000000000148/2_Identification number of nominee.jpg check
+new_cropped/CAP-0000000000000000148/1_Telephone_Number_2.jpg check
+new_cropped/CAP-0000000000000000148/2_Estimated Annual Transaction in amount.jpg 300000
+new_cropped/CAP-0000000000000000148/2_Estimated Monthly Transaction in amount .jpg check
+new_cropped/CAP-0000000000000000148/2_type of  account1.jpg check
+new_cropped/CAP-0000000000000000148/1_Permanent_Address_District.jpg Kailali
+new_cropped/CAP-0000000000000000148/1_Permanent House Number.jpg check
+new_cropped/CAP-0000000000000000148/3_Introducer Name.jpg check
+new_cropped/CAP-0000000000000000148/1_Father_Name.jpg Ratilal Dangaura Tharu
+new_cropped/CAP-0000000000000000148/1_Identification_Document_Issue_Place.jpg check
+new_cropped/CAP-0000000000000000148/2_Estimated Monthly Transaction in number1.jpg 10
+new_cropped/CAP-0000000000000000148/2_Employer Name2.jpg check
+new_cropped/CAP-0000000000000000148/1_Father-in-law.jpg nan
+new_cropped/CAP-0000000000000000148/1_Identification_Document_Issue_Place_1.jpg Kailali
+new_cropped/CAP-0000000000000000148/3_Criminal Offense Details.jpg check
+new_cropped/CAP-0000000000000000148/3_Introducer Account Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Account Scheme.jpg check
+new_cropped/CAP-0000000000000000148/2_Maximum amount per transaction .jpg check
+new_cropped/CAP-0000000000000000148/3_PEP Account Name2.jpg check
+new_cropped/CAP-0000000000000000148/1_Daughter.jpg Susmita Chaudhary
+new_cropped/CAP-0000000000000000148/2_Guardian Name if Nominee is minor.jpg check
+new_cropped/CAP-0000000000000000148/2_Purpose of account.jpg Savings
+new_cropped/CAP-0000000000000000148/1_Telephone Number 2.jpg check
+new_cropped/CAP-0000000000000000148/2_Estimated Monthly Transaction in amount1 .jpg check
+new_cropped/CAP-0000000000000000148/1_Date_of_Birth_in_AD.jpg 1984-05-18T00:00:00.000
+new_cropped/CAP-0000000000000000148/1_Received Date and Time of AOF from Customer.jpg check
+new_cropped/CAP-0000000000000000148/3_Card Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Mobile_Number_1.jpg 9825696666
+new_cropped/CAP-0000000000000000148/2_Father Name of Nominee.jpg check
+new_cropped/CAP-0000000000000000148/1_Permanent_House_Number.jpg 0
+new_cropped/CAP-0000000000000000148/1_Identification Document Issue Date in BS.jpg check
+new_cropped/CAP-0000000000000000148/2_Annual Income2.jpg check
+new_cropped/CAP-0000000000000000148/2_PAN Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Education.jpg check
+new_cropped/CAP-0000000000000000148/1_Permanent_Ward_No.jpg 6
+new_cropped/CAP-0000000000000000148/1_Permanent Province.jpg check
+new_cropped/CAP-0000000000000000148/1_Communication Ward No.jpg check
+new_cropped/CAP-0000000000000000148/1_Permanent Address District.jpg check
+new_cropped/CAP-0000000000000000148/2_Beneficial Owner.jpg check
+new_cropped/CAP-0000000000000000148/1_Full Name.jpg check
+new_cropped/CAP-0000000000000000148/1_First Name.jpg check
+new_cropped/CAP-0000000000000000148/1_Identification_Document_Issue_Date_in_BS.jpg check
+new_cropped/CAP-0000000000000000148/1_Relation_to_Guardian.jpg check
+new_cropped/CAP-0000000000000000148/2_Employee Designation1.jpg Farmer
+new_cropped/CAP-0000000000000000148/1_Email address.jpg check
+new_cropped/CAP-0000000000000000148/3_PEP Account Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Communication_Address_Municipality_Rural-MC_City.jpg Kailari Rural Municipality
+new_cropped/CAP-0000000000000000148/1_Guardian_Name.jpg nan
+new_cropped/CAP-0000000000000000148/2_Nominee Address.jpg Lambiphata
+new_cropped/CAP-0000000000000000148/2_Identification document type of Guardian of Nominee if Minor.jpg check
+new_cropped/CAP-0000000000000000148/2_Employee Designation2.jpg check
+new_cropped/CAP-0000000000000000148/2_other bank account2.jpg check
+new_cropped/CAP-0000000000000000148/2_Nominee relation.jpg Wife
+new_cropped/CAP-0000000000000000148/1_Telephone Number 1.jpg check
+new_cropped/CAP-0000000000000000148/1_Branch.jpg check
+new_cropped/CAP-0000000000000000148/1_Email_address.jpg check
+new_cropped/CAP-0000000000000000148/1_Communication House Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Spouse_Name.jpg Gita Devi Chaudhary
+new_cropped/CAP-0000000000000000148/1_Middle Name.jpg check
+new_cropped/CAP-0000000000000000148/2_Beneficial Owner relationship.jpg check
+new_cropped/CAP-0000000000000000148/1_Grandfather_Name.jpg Pate Dangaura Tharu
+new_cropped/CAP-0000000000000000148/1_Nationality.jpg check
+new_cropped/CAP-0000000000000000148/1_Telephone_Number_1.jpg nan
+new_cropped/CAP-0000000000000000148/1_Communication_House_Number.jpg 0
+new_cropped/CAP-0000000000000000148/1_Date of Birth in AD.jpg check
+new_cropped/CAP-0000000000000000148/1_Province.jpg check
+new_cropped/CAP-0000000000000000148/2_Organization Contact Number1.jpg nan
+new_cropped/CAP-0000000000000000148/1_DOB_in_Nepali.jpg check
+new_cropped/CAP-0000000000000000148/2_Identification number of Guardian of Nominee if Minor.jpg check
+new_cropped/CAP-0000000000000000148/2_other bank account1.jpg check
+new_cropped/CAP-0000000000000000148/2_type of  account2.jpg check
+new_cropped/CAP-0000000000000000148/1_Email_address_1.jpg Na@Nicasiabank.Com
+new_cropped/CAP-0000000000000000148/1_Permanent Ward No.jpg check
+new_cropped/CAP-0000000000000000148/1_Grandmother_Name.jpg nan
+new_cropped/CAP-0000000000000000148/1_Communication_Ward_No.jpg 6
+new_cropped/CAP-0000000000000000148/2_Employer Address1.jpg nan
+new_cropped/CAP-0000000000000000148/1_Communication_Address_District.jpg Kailali
+new_cropped/CAP-0000000000000000148/1_Mother_Name.jpg Chimatiya Dangaura Tharu
+new_cropped/CAP-0000000000000000148/2_Estimated Annual Transaction in number.jpg 30
+new_cropped/CAP-0000000000000000148/1_Account_Scheme.jpg Sba
+new_cropped/CAP-0000000000000000148/2_Annual Income1.jpg 300000
+new_cropped/CAP-0000000000000000148/2_Identification document type of nominee.jpg check
+new_cropped/CAP-0000000000000000148/1_Mobile Number.jpg check
+new_cropped/CAP-0000000000000000148/1_Identification_Document_Number_1.jpg 673022/353
+new_cropped/CAP-0000000000000000148/1_Permanent_Street_Tole_Name.jpg Lambi[Phata
+new_cropped/CAP-0000000000000000148/1_Identification_Document_Issue_Date_in_BS_1.jpg 2007-02-08T00:00:00.000
+new_cropped/CAP-0000000000000000148/2_Relation to Nominee Guardian if Nominee is minor.jpg check
+new_cropped/CAP-0000000000000000148/2_Nominee Name.jpg Gita Devi Chaudhary
+new_cropped/CAP-0000000000000000148/1_Son.jpg Sushil Chaudhary
+new_cropped/CAP-0000000000000000148/1_Permanent_Address_Municipality_Rural-MC_City.jpg Kailari Rural Municipality
+old_cropped/CAP-0000000000000000016/1_Communication_Street_Tole_Name.jpg Moti
+old_cropped/CAP-0000000000000000016/2_Organization Contact Number2.jpg check
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner2 Address.jpg check
+old_cropped/CAP-0000000000000000016/1_Mobile_Number_2.jpg nan
+old_cropped/CAP-0000000000000000016/2_other_bank_name2.jpg check
+old_cropped/CAP-0000000000000000016/2_Employer Name4.jpg check
+old_cropped/CAP-0000000000000000016/2_Nominee date of birth.jpg check
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner1 Address.jpg check
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner2 Relation.jpg check
+old_cropped/CAP-0000000000000000016/3_Email id.jpg check
+old_cropped/CAP-0000000000000000016/3_User id.jpg check
+old_cropped/CAP-0000000000000000016/2_Grandfather Name of Nominee.jpg check
+old_cropped/CAP-0000000000000000016/2_Maximum amount per transaction.jpg 50000
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner1.jpg check
+old_cropped/CAP-0000000000000000016/3_Relation to Guardian if Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000016/3_Name of Guardian of Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000016/1_Daughter-in-law.jpg nan
+old_cropped/CAP-0000000000000000016/1_Currency.jpg check
+old_cropped/CAP-0000000000000000016/2_Employee Designation3.jpg check
+old_cropped/CAP-0000000000000000016/2_Employer Address2.jpg check
+old_cropped/CAP-0000000000000000016/2_Employer Name3.jpg check
+old_cropped/CAP-0000000000000000016/2_Estimated Monthly Transaction in amount1.jpg 60000
+old_cropped/CAP-0000000000000000016/1_Permanent_Province.jpg check
+old_cropped/CAP-0000000000000000016/2_Employer Name1.jpg nan
+old_cropped/CAP-0000000000000000016/2_Identification document issue date.jpg check
+old_cropped/CAP-0000000000000000016/1_Full_Name.jpg Sunita Dhami
+old_cropped/CAP-0000000000000000016/1_Telephone_Number_2.jpg check
+old_cropped/CAP-0000000000000000016/2_Estimated Annual Transaction in amount.jpg 180000
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner2.jpg check
+old_cropped/CAP-0000000000000000016/1_Permanent_Address_District.jpg Darchula
+old_cropped/CAP-0000000000000000016/3_Introducer Name.jpg check
+old_cropped/CAP-0000000000000000016/1_Father_Name.jpg Birendra Singh Dhami
+old_cropped/CAP-0000000000000000016/2_Estimated Monthly Transaction in number1.jpg 5
+old_cropped/CAP-0000000000000000016/2_Employer Name2.jpg check
+old_cropped/CAP-0000000000000000016/1_Father-in-law.jpg nan
+old_cropped/CAP-0000000000000000016/1_Number_of_Applicants.jpg check
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner1 Relation.jpg check
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Issue_Place_1.jpg Darchula
+old_cropped/CAP-0000000000000000016/3_Introducer Account Number.jpg check
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Issue_Place_2.jpg check
+old_cropped/CAP-0000000000000000016/1_Daughter.jpg nan
+old_cropped/CAP-0000000000000000016/2_Purpose of account.jpg Savings
+old_cropped/CAP-0000000000000000016/1_Date_of_Birth_in_AD.jpg 2002-09-26T00:00:00.000
+old_cropped/CAP-0000000000000000016/3_Address of Guardian if Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000016/3_Mobile no.jpg check
+old_cropped/CAP-0000000000000000016/2_Annual Income3.jpg check
+old_cropped/CAP-0000000000000000016/3_Card Number.jpg check
+old_cropped/CAP-0000000000000000016/2_Any other account.jpg check
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Issue_Place(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000016/1_Mobile_Number_1.jpg 9868739002
+old_cropped/CAP-0000000000000000016/2_Father Name of Nominee.jpg check
+old_cropped/CAP-0000000000000000016/1_Permanent_House_Number.jpg nan
+old_cropped/CAP-0000000000000000016/2_Annual Income2.jpg check
+old_cropped/CAP-0000000000000000016/2_PAN Number.jpg check
+old_cropped/CAP-0000000000000000016/2_Employer Address4.jpg check
+old_cropped/CAP-0000000000000000016/2_Organization Contact Number3.jpg check
+old_cropped/CAP-0000000000000000016/1_Education.jpg check
+old_cropped/CAP-0000000000000000016/1_Permanent_Ward_No.jpg 2
+old_cropped/CAP-0000000000000000016/1_Email_address_2.jpg check
+old_cropped/CAP-0000000000000000016/1_Received_Date_and_Time_of_AOF_from_Customer.jpg check
+old_cropped/CAP-0000000000000000016/2_Annual Income4.jpg check
+old_cropped/CAP-0000000000000000016/1_Relation_to_Guardian.jpg check
+old_cropped/CAP-0000000000000000016/2_Employee Designation1.jpg Student At Darchula Multiple Campus
+old_cropped/CAP-0000000000000000016/1_Communication_Address_Municipality_Rural-MC_City.jpg Mahakali Municipality
+old_cropped/CAP-0000000000000000016/1_Guardian_Name.jpg nan
+old_cropped/CAP-0000000000000000016/2_Nominee Address.jpg Malikarjin-04
+old_cropped/CAP-0000000000000000016/3_Identification document number of Guardian of Nominee if Minor.jpg check
+old_cropped/CAP-0000000000000000016/1_Communiciation_Province.jpg check
+old_cropped/CAP-0000000000000000016/2_type_of_account1.jpg check
+old_cropped/CAP-0000000000000000016/2_Other Sources of income.jpg check
+old_cropped/CAP-0000000000000000016/2_Employee Designation2.jpg check
+old_cropped/CAP-0000000000000000016/2_Nominee relation.jpg Fathe
+old_cropped/CAP-0000000000000000016/1_Branch.jpg check
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Number_2.jpg check
+old_cropped/CAP-0000000000000000016/1_Spouse_Name.jpg nan
+old_cropped/CAP-0000000000000000016/3_Self Announcement.jpg check
+old_cropped/CAP-0000000000000000016/1_Fax_Number_1.jpg check
+old_cropped/CAP-0000000000000000016/1_Grandfather_Name.jpg Ghirak Dhami
+old_cropped/CAP-0000000000000000016/2_Identification document number of Nominee.jpg check
+old_cropped/CAP-0000000000000000016/1_Nationality.jpg check
+old_cropped/CAP-0000000000000000016/1_Fax_Number_2.jpg check
+old_cropped/CAP-0000000000000000016/1_Telephone_Number_1.jpg nan
+old_cropped/CAP-0000000000000000016/1_Communication_House_Number.jpg nan
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Issue_Date_in_BS(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000016/2_Organization Contact Number1.jpg nan
+old_cropped/CAP-0000000000000000016/1_DOB_in_Nepali.jpg check
+old_cropped/CAP-0000000000000000016/2_Organization Contact Number4.jpg check
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Issue_Date_in_BS_2.jpg check
+old_cropped/CAP-0000000000000000016/2_type_of_account2.jpg check
+old_cropped/CAP-0000000000000000016/1_Email_address_1.jpg Na@Nicasiabank.Com
+old_cropped/CAP-0000000000000000016/2_Employer Address3.jpg check
+old_cropped/CAP-0000000000000000016/1_Grandmother_Name.jpg nan
+old_cropped/CAP-0000000000000000016/1_Minor_turn_major_date.jpg check
+old_cropped/CAP-0000000000000000016/1_Communication_Ward_No.jpg 5
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Number(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000016/3_Alternative user id.jpg check
+old_cropped/CAP-0000000000000000016/2_Employer Address1.jpg nan
+old_cropped/CAP-0000000000000000016/1_Communication_Address_District.jpg Darchula
+old_cropped/CAP-0000000000000000016/3_Identification document issue date of Guardian of Nominee if Minor.jpg check
+old_cropped/CAP-0000000000000000016/1_Mother_Name.jpg Sarswati Devi Dhami
+old_cropped/CAP-0000000000000000016/2_Estimated Annual Transaction in number.jpg 15
+old_cropped/CAP-0000000000000000016/1_Account_Scheme.jpg Sba
+old_cropped/CAP-0000000000000000016/2_Annual Income1.jpg 200000
+old_cropped/CAP-0000000000000000016/3_Attached document.jpg check
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner2 number.jpg check
+old_cropped/CAP-0000000000000000016/2_Beneficial Owner1 number.jpg check
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Number_1.jpg 72-01-78-00491
+old_cropped/CAP-0000000000000000016/1_Permanent_Street_Tole_Name.jpg Bhagwati
+old_cropped/CAP-0000000000000000016/1_Identification_Document_Issue_Date_in_BS_1.jpg 2021-08-01T00:00:00.000
+old_cropped/CAP-0000000000000000016/2_other_bank_name1.jpg check
+old_cropped/CAP-0000000000000000016/2_Nominee Name.jpg Birendra Singh Dhami
+old_cropped/CAP-0000000000000000016/3_Mobile banking mobile no.jpg check
+old_cropped/CAP-0000000000000000016/2_Employee Designation4.jpg check
+old_cropped/CAP-0000000000000000016/1_Son.jpg nan
+old_cropped/CAP-0000000000000000016/1_Permanent_Address_Municipality_Rural-MC_City.jpg Malikaarjun Rural Municipality
+new_cropped/CAP-0000000000000000111/1_Communication Address District.jpg check
+new_cropped/CAP-0000000000000000111/2_Nominee Relation.jpg check
+new_cropped/CAP-0000000000000000111/1_Communication_Street_Tole_Name.jpg Campus Road
+new_cropped/CAP-0000000000000000111/1_Grandfather Name.jpg check
+new_cropped/CAP-0000000000000000111/2_Estimated Monthly Transaction in number.jpg check
+new_cropped/CAP-0000000000000000111/1_Number of Applicants.jpg check
+new_cropped/CAP-0000000000000000111/2_Organization Contact Number2.jpg check
+new_cropped/CAP-0000000000000000111/1_Identification Document Number.jpg check
+new_cropped/CAP-0000000000000000111/1_DOB in Nepali.jpg check
+new_cropped/CAP-0000000000000000111/3_PEP Account Number2.jpg check
+new_cropped/CAP-0000000000000000111/1_Identification Document Issue Place.jpg check
+new_cropped/CAP-0000000000000000111/3_User ID.jpg check
+new_cropped/CAP-0000000000000000111/2_Grand Father Name of Nominee.jpg check
+new_cropped/CAP-0000000000000000111/3_PEP Account Name.jpg check
+new_cropped/CAP-0000000000000000111/1_Last Name.jpg check
+new_cropped/CAP-0000000000000000111/2_Maximum amount per transaction.jpg 10000
+new_cropped/CAP-0000000000000000111/3_Account instruction.jpg check
+new_cropped/CAP-0000000000000000111/1_Identification_Document_Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Daughter-in-law.jpg nan
+new_cropped/CAP-0000000000000000111/1_Relation to Guardian.jpg check
+new_cropped/CAP-0000000000000000111/2_Employer Address2.jpg check
+new_cropped/CAP-0000000000000000111/1_Grandmother Name.jpg check
+new_cropped/CAP-0000000000000000111/1_Father Name.jpg check
+new_cropped/CAP-0000000000000000111/2_Estimated Monthly Transaction in amount1.jpg 10000
+new_cropped/CAP-0000000000000000111/1_Spouse Name.jpg check
+new_cropped/CAP-0000000000000000111/1_Permanent_Province.jpg check
+new_cropped/CAP-0000000000000000111/2_Employer Name1.jpg Om Bijay Laxmi Traders
+new_cropped/CAP-0000000000000000111/1_Full_Name.jpg Bujhawan Chaudhary
+new_cropped/CAP-0000000000000000111/1_Mother Name.jpg check
+new_cropped/CAP-0000000000000000111/1_Guardian Name.jpg check
+new_cropped/CAP-0000000000000000111/2_Identification number of nominee.jpg check
+new_cropped/CAP-0000000000000000111/1_Telephone_Number_2.jpg check
+new_cropped/CAP-0000000000000000111/2_Estimated Annual Transaction in amount.jpg 100000
+new_cropped/CAP-0000000000000000111/2_Estimated Monthly Transaction in amount .jpg check
+new_cropped/CAP-0000000000000000111/2_type of  account1.jpg check
+new_cropped/CAP-0000000000000000111/1_Permanent_Address_District.jpg Kailali
+new_cropped/CAP-0000000000000000111/1_Permanent House Number.jpg check
+new_cropped/CAP-0000000000000000111/3_Introducer Name.jpg check
+new_cropped/CAP-0000000000000000111/1_Father_Name.jpg Deep Bahadur Chaudhary
+new_cropped/CAP-0000000000000000111/1_Identification_Document_Issue_Place.jpg check
+new_cropped/CAP-0000000000000000111/2_Estimated Monthly Transaction in number1.jpg 5
+new_cropped/CAP-0000000000000000111/2_Employer Name2.jpg check
+new_cropped/CAP-0000000000000000111/1_Father-in-law.jpg Desu Chaudhary
+new_cropped/CAP-0000000000000000111/1_Identification_Document_Issue_Place_1.jpg Kailali
+new_cropped/CAP-0000000000000000111/3_Criminal Offense Details.jpg check
+new_cropped/CAP-0000000000000000111/3_Introducer Account Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Account Scheme.jpg check
+new_cropped/CAP-0000000000000000111/2_Maximum amount per transaction .jpg check
+new_cropped/CAP-0000000000000000111/3_PEP Account Name2.jpg check
+new_cropped/CAP-0000000000000000111/1_Daughter.jpg nan
+new_cropped/CAP-0000000000000000111/2_Guardian Name if Nominee is minor.jpg check
+new_cropped/CAP-0000000000000000111/2_Purpose of account.jpg Savings
+new_cropped/CAP-0000000000000000111/1_Telephone Number 2.jpg check
+new_cropped/CAP-0000000000000000111/2_Estimated Monthly Transaction in amount1 .jpg check
+new_cropped/CAP-0000000000000000111/1_Date_of_Birth_in_AD.jpg 1986-09-24T00:00:00.000
+new_cropped/CAP-0000000000000000111/1_Received Date and Time of AOF from Customer.jpg check
+new_cropped/CAP-0000000000000000111/3_Card Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Mobile_Number_1.jpg 9811611741
+new_cropped/CAP-0000000000000000111/2_Father Name of Nominee.jpg check
+new_cropped/CAP-0000000000000000111/1_Permanent_House_Number.jpg nan
+new_cropped/CAP-0000000000000000111/1_Identification Document Issue Date in BS.jpg check
+new_cropped/CAP-0000000000000000111/2_Annual Income2.jpg check
+new_cropped/CAP-0000000000000000111/2_PAN Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Education.jpg check
+new_cropped/CAP-0000000000000000111/1_Permanent_Ward_No.jpg 2
+new_cropped/CAP-0000000000000000111/1_Permanent Province.jpg check
+new_cropped/CAP-0000000000000000111/1_Communication Ward No.jpg check
+new_cropped/CAP-0000000000000000111/1_Permanent Address District.jpg check
+new_cropped/CAP-0000000000000000111/2_Beneficial Owner.jpg check
+new_cropped/CAP-0000000000000000111/1_Full Name.jpg check
+new_cropped/CAP-0000000000000000111/1_First Name.jpg check
+new_cropped/CAP-0000000000000000111/1_Identification_Document_Issue_Date_in_BS.jpg check
+new_cropped/CAP-0000000000000000111/1_Relation_to_Guardian.jpg check
+new_cropped/CAP-0000000000000000111/2_Employee Designation1.jpg Helper At Om Bijay Laxmi Traders
+new_cropped/CAP-0000000000000000111/1_Email address.jpg check
+new_cropped/CAP-0000000000000000111/3_PEP Account Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Communication_Address_Municipality_Rural-MC_City.jpg Dhangadhi Sub-Metropolitian City
+new_cropped/CAP-0000000000000000111/1_Guardian_Name.jpg nan
+new_cropped/CAP-0000000000000000111/2_Nominee Address.jpg Dhangadhi-8
+new_cropped/CAP-0000000000000000111/2_Identification document type of Guardian of Nominee if Minor.jpg check
+new_cropped/CAP-0000000000000000111/2_Employee Designation2.jpg check
+new_cropped/CAP-0000000000000000111/2_other bank account2.jpg check
+new_cropped/CAP-0000000000000000111/2_Nominee relation.jpg Wife
+new_cropped/CAP-0000000000000000111/1_Telephone Number 1.jpg check
+new_cropped/CAP-0000000000000000111/1_Branch.jpg check
+new_cropped/CAP-0000000000000000111/1_Email_address.jpg check
+new_cropped/CAP-0000000000000000111/1_Communication House Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Spouse_Name.jpg Ram Pati Kumari Chaudhary
+new_cropped/CAP-0000000000000000111/1_Middle Name.jpg check
+new_cropped/CAP-0000000000000000111/2_Beneficial Owner relationship.jpg check
+new_cropped/CAP-0000000000000000111/1_Grandfather_Name.jpg Chipu Dangaura Chaudhary
+new_cropped/CAP-0000000000000000111/1_Nationality.jpg check
+new_cropped/CAP-0000000000000000111/1_Telephone_Number_1.jpg nan
+new_cropped/CAP-0000000000000000111/1_Communication_House_Number.jpg nan
+new_cropped/CAP-0000000000000000111/1_Date of Birth in AD.jpg check
+new_cropped/CAP-0000000000000000111/1_Province.jpg check
+new_cropped/CAP-0000000000000000111/2_Organization Contact Number1.jpg nan
+new_cropped/CAP-0000000000000000111/1_DOB_in_Nepali.jpg check
+new_cropped/CAP-0000000000000000111/2_Identification number of Guardian of Nominee if Minor.jpg check
+new_cropped/CAP-0000000000000000111/2_other bank account1.jpg check
+new_cropped/CAP-0000000000000000111/2_type of  account2.jpg check
+new_cropped/CAP-0000000000000000111/1_Email_address_1.jpg Na@Nicasiabank.Com
+new_cropped/CAP-0000000000000000111/1_Permanent Ward No.jpg check
+new_cropped/CAP-0000000000000000111/1_Grandmother_Name.jpg nan
+new_cropped/CAP-0000000000000000111/1_Communication_Ward_No.jpg 8
+new_cropped/CAP-0000000000000000111/2_Employer Address1.jpg Dhangadhi-4
+new_cropped/CAP-0000000000000000111/1_Communication_Address_District.jpg Kailali
+new_cropped/CAP-0000000000000000111/1_Mother_Name.jpg Parbati Devi Chaudhary
+new_cropped/CAP-0000000000000000111/2_Estimated Annual Transaction in number.jpg 25
+new_cropped/CAP-0000000000000000111/1_Account_Scheme.jpg Sba
+new_cropped/CAP-0000000000000000111/2_Annual Income1.jpg 100000
+new_cropped/CAP-0000000000000000111/2_Identification document type of nominee.jpg check
+new_cropped/CAP-0000000000000000111/1_Mobile Number.jpg check
+new_cropped/CAP-0000000000000000111/1_Identification_Document_Number_1.jpg 673022/562
+new_cropped/CAP-0000000000000000111/1_Permanent_Street_Tole_Name.jpg Kharetti
+new_cropped/CAP-0000000000000000111/1_Identification_Document_Issue_Date_in_BS_1.jpg 2007-02-09T00:00:00.000
+new_cropped/CAP-0000000000000000111/2_Relation to Nominee Guardian if Nominee is minor.jpg check
+new_cropped/CAP-0000000000000000111/2_Nominee Name.jpg Rampati Kumari Chaudhary
+new_cropped/CAP-0000000000000000111/1_Son.jpg Aashish Chaudhary
+new_cropped/CAP-0000000000000000111/1_Permanent_Address_Municipality_Rural-MC_City.jpg Kailari Rural Municipality
+old_cropped/CAP-0000000000000000124/1_Communication_Street_Tole_Name.jpg Jhirokha
+old_cropped/CAP-0000000000000000124/2_Organization Contact Number2.jpg check
+old_cropped/CAP-0000000000000000124/2_Beneficial Owner2 Address.jpg check
+old_cropped/CAP-0000000000000000124/1_Mobile_Number_2.jpg 9815613969
+old_cropped/CAP-0000000000000000124/2_other_bank_name2.jpg check
+old_cropped/CAP-0000000000000000124/2_Employer Name4.jpg check
+old_cropped/CAP-0000000000000000124/2_Nominee date of birth.jpg check
+old_cropped/CAP-0000000000000000124/2_Beneficial Owner1 Address.jpg check
+old_cropped/CAP-0000000000000000124/2_Beneficial Owner2 Relation.jpg check
+old_cropped/CAP-0000000000000000124/3_Email id.jpg check
+old_cropped/CAP-0000000000000000124/3_User id.jpg check
+old_cropped/CAP-0000000000000000124/2_Grandfather Name of Nominee.jpg check
+old_cropped/CAP-0000000000000000124/2_Maximum amount per transaction.jpg 10000
+old_cropped/CAP-0000000000000000124/2_Beneficial Owner1.jpg check
+old_cropped/CAP-0000000000000000124/3_Relation to Guardian if Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000124/3_Name of Guardian of Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000124/1_Daughter-in-law.jpg nan
+old_cropped/CAP-0000000000000000124/1_Currency.jpg check
+old_cropped/CAP-0000000000000000124/2_Employee Designation3.jpg check
+old_cropped/CAP-0000000000000000124/2_Employer Address2.jpg check
+old_cropped/CAP-0000000000000000124/2_Employer Name3.jpg check
+old_cropped/CAP-0000000000000000124/2_Estimated Monthly Transaction in amount1.jpg 10000
+old_cropped/CAP-0000000000000000124/1_Permanent_Province.jpg check
+old_cropped/CAP-0000000000000000124/2_Employer Name1.jpg nan
+old_cropped/CAP-0000000000000000124/2_Identification document issue date.jpg check
+old_cropped/CAP-0000000000000000124/1_Full_Name.jpg Bimala Kumari Chaudhary
+old_cropped/CAP-0000000000000000124/1_Telephone_Number_2.jpg check
+old_cropped/CAP-0000000000000000124/2_Estimated Annual Transaction in amount.jpg 100000
+old_cropped/CAP-0000000000000000124/2_Beneficial Owner2.jpg check
+old_cropped/CAP-0000000000000000124/1_Permanent_Address_District.jpg Kailali
+old_cropped/CAP-0000000000000000124/3_Introducer Name.jpg check
+old_cropped/CAP-0000000000000000124/1_Father_Name.jpg Bejhu Ram Dangaura
+old_cropped/CAP-0000000000000000124/2_Estimated Monthly Transaction in number1.jpg 2
+old_cropped/CAP-0000000000000000124/2_Employer Name2.jpg check
+old_cropped/CAP-0000000000000000124/1_Father-in-law.jpg nan
+old_cropped/CAP-0000000000000000124/1_Number_of_Applicants.jpg check
+old_cropped/CAP-0000000000000000124/2_Beneficial Owner1 Relation.jpg check
+old_cropped/CAP-0000000000000000124/1_Identification_Document_Issue_Place_1.jpg Kailali
+old_cropped/CAP-0000000000000000124/3_Introducer Account Number.jpg check
+old_cropped/CAP-0000000000000000124/1_Identification_Document_Issue_Place_2.jpg check
+old_cropped/CAP-0000000000000000124/1_Daughter.jpg nan
+old_cropped/CAP-0000000000000000124/2_Purpose of account.jpg Savings
+old_cropped/CAP-0000000000000000124/1_Date_of_Birth_in_AD.jpg 1992-11-02T00:00:00.000
+old_cropped/CAP-0000000000000000124/3_Address of Guardian if Nominee is minor.jpg check
+old_cropped/CAP-0000000000000000124/3_Mobile no.jpg check
+old_cropped/CAP-0000000000000000124/2_Annual Income3.jpg check
+old_cropped/CAP-0000000000000000124/3_Card Number.jpg check
+old_cropped/CAP-0000000000000000124/2_Any other account.jpg check
+old_cropped/CAP-0000000000000000124/1_Identification_Document_Issue_Place(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000124/1_Mobile_Number_1.jpg 9815613969
+old_cropped/CAP-0000000000000000124/2_Father Name of Nominee.jpg check
+old_cropped/CAP-0000000000000000124/1_Permanent_House_Number.jpg nan
+old_cropped/CAP-0000000000000000124/2_Annual Income2.jpg check
+old_cropped/CAP-0000000000000000124/2_PAN Number.jpg check
+old_cropped/CAP-0000000000000000124/2_Employer Address4.jpg check
+old_cropped/CAP-0000000000000000124/2_Organization Contact Number3.jpg check
+old_cropped/CAP-0000000000000000124/1_Education.jpg check
+old_cropped/CAP-0000000000000000124/1_Permanent_Ward_No.jpg 1
+old_cropped/CAP-0000000000000000124/1_Email_address_2.jpg check
+old_cropped/CAP-0000000000000000124/1_Received_Date_and_Time_of_AOF_from_Customer.jpg check
+old_cropped/CAP-0000000000000000124/2_Annual Income4.jpg check
+old_cropped/CAP-0000000000000000124/1_Relation_to_Guardian.jpg check
+old_cropped/CAP-0000000000000000124/2_Employee Designation1.jpg Farmer
+old_cropped/CAP-0000000000000000124/1_Communication_Address_Municipality_Rural-MC_City.jpg Ghodaghodi Municipality
+old_cropped/CAP-0000000000000000124/1_Guardian_Name.jpg nan
+old_cropped/CAP-0000000000000000124/2_Nominee Address.jpg Ghodaghodi-10,Kailali
+old_cropped/CAP-0000000000000000124/3_Identification document number of Guardian of Nominee if Minor.jpg check
+old_cropped/CAP-0000000000000000124/1_Communiciation_Province.jpg check
+old_cropped/CAP-0000000000000000124/2_type_of_account1.jpg check
+old_cropped/CAP-0000000000000000124/2_Other Sources of income.jpg check
+old_cropped/CAP-0000000000000000124/2_Employee Designation2.jpg check
+old_cropped/CAP-0000000000000000124/2_Nominee relation.jpg Mothe
+old_cropped/CAP-0000000000000000124/1_Branch.jpg check
+old_cropped/CAP-0000000000000000124/1_Identification_Document_Number_2.jpg check
+old_cropped/CAP-0000000000000000124/1_Spouse_Name.jpg nan
+old_cropped/CAP-0000000000000000124/3_Self Announcement.jpg check
+old_cropped/CAP-0000000000000000124/1_Fax_Number_1.jpg check
+old_cropped/CAP-0000000000000000124/1_Grandfather_Name.jpg Kuku Ram Dangaura
+old_cropped/CAP-0000000000000000124/2_Identification document number of Nominee.jpg check
+old_cropped/CAP-0000000000000000124/1_Nationality.jpg check
+old_cropped/CAP-0000000000000000124/1_Fax_Number_2.jpg check
+old_cropped/CAP-0000000000000000124/1_Telephone_Number_1.jpg nan
+old_cropped/CAP-0000000000000000124/1_Communication_House_Number.jpg nan
+old_cropped/CAP-0000000000000000124/1_Identification_Document_Issue_Date_in_BS(In_case_of_Minor).jpg check
+old_cropped/CAP-0000000000000000124/2_Organization Contact Number1.jpg nan
+old_cropped/CAP-0000000000000000124/1_DOB_in_Nepali.jpg check
+old_cropped/CAP-0000000000000000124/2_Organization Contact Number4.jpg check
+old_cropped/CAP-0000000000000000124/1_Identification_Document_Issue_Date_in_BS_2.jpg check
+old_cropped/CAP-0000000000000000124/2_type_of_account2.jpg check
